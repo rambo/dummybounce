@@ -6,7 +6,7 @@ void dummybounce::begin(unsigned long interval_millis )
 {
 	interval(interval_millis);
 	previous_millis = millis();
-	state = 0x0
+	state = 0x0;
 }
 
 

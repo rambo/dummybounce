@@ -26,7 +26,6 @@
 #ifndef dummybounce_h
 #define dummybounce_h
 #include <Arduino.h>
-#include "dummy.h"
 
 class dummybounce
 {
